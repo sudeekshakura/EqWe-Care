@@ -39,7 +39,6 @@ Additionally to upscale the user experience we also provide a conversational cha
 
 ## Application
 
-[EqWe Care](https://linktodocumentation)
 
 [Streamlit Dashboard](http://dashboardeqwe.eqwecare.tech/)
 
