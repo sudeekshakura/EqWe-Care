@@ -32,6 +32,11 @@ Additionally to upscale the user experience we also provide a conversational cha
 
 **Methodology**: Transformer LLM (T5), SRGAN
 
+## Data Architecture
+<p align="center">
+  <img width="500" height="500" src="DA.png">
+</p>
+
 ## Application
 
 [EqWe Care](https://linktodocumentation)
@@ -39,6 +44,15 @@ Additionally to upscale the user experience we also provide a conversational cha
 [Streamlit Dashboard](http://dashboardeqwe.eqwecare.tech/)
 
 Our product can be used as a plug in to the existing patient management systems or we can be service providers who can build a one stop solution built using complex data intrinsic models to manage electronic administrative records of the hospitals and medical and life insurance companies. Additional features benefits include improving the patient experience by fast, optimized and personalized treatment and programs without compromising the patient record privacy. Organizations can become robust in making data driven decisions utilizing the granular and easy to infer dashboards that the solution provides. All in all this solution comes with a positive, multifold impact, both tangible and intangible.
+
+## Key Features
+
+1. **Streamlined Access**: EqWeCare provides seamless access to patients' EHRs, consolidating data from various sources into a unified platform. This streamlines the process for healthcare providers, saving time and improving efficiency.
+2. **Comprehensive Data Analysis**: Leveraging advanced analytics tools, EqWeCare offers insights into patient health trends, medication adherence, treatment outcomes, and more. Healthcare providers can make informed decisions based on comprehensive data analysis, leading to better patient care and outcomes.
+3. **Interoperability**: EqWeCare promotes interoperability by facilitating the exchange of health information between different healthcare systems and providers. This ensures continuity of care and enables collaboration among healthcare professionals involved in a patient's treatment.
+4. **Security and Compliance**: EqWeCare prioritizes data security and compliance with healthcare regulations, implementing robust encryption protocols and access controls to protect patient confidentiality and privacy.
+5. **Personalized Care Plans**: With access to a wealth of patient health data, healthcare providers can create personalized care plans tailored to each individual's needs and preferences. This patient-centric approach improves engagement and satisfaction while optimizing treatment outcomes.
+6. **Scalability and Flexibility**: EqWeCare is designed to scale with the growing needs of healthcare organizations, offering flexibility to adapt to evolving technology and regulatory requirements.
 
 ## Conclusion
 
