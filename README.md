@@ -35,6 +35,7 @@ Additionally to upscale the user experience we also provide a conversational cha
 ## Application
 
 [EqWe Care](https://linktodocumentation)
+
 [Streamlit Dashboard](http://dashboardeqwe.eqwecare.tech/)
 
 Our product can be used as a plug in to the existing patient management systems or we can be service providers who can build a one stop solution built using complex data intrinsic models to manage electronic administrative records of the hospitals and medical and life insurance companies. Additional features benefits include improving the patient experience by fast, optimized and personalized treatment and programs without compromising the patient record privacy. Organizations can become robust in making data driven decisions utilizing the granular and easy to infer dashboards that the solution provides. All in all this solution comes with a positive, multifold impact, both tangible and intangible.
