@@ -20,7 +20,7 @@ Additionally to upscale the user experience we also provide a conversational cha
 
 ## Tech Stack
 
-**Front End:** React, Redux, TailwindCSS
+**Front End:** React
 
 **DataBase:** MongoDB
 
